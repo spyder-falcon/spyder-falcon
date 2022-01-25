@@ -53,7 +53,7 @@ src="https://lh3.googleusercontent.com/a-/AOh14GgGx98S4KBoPV4vfSPSf-GlPO9_o50lcz
 
 ### License
 
-* This project is licensed under The GNU General Public License v3.0 - see the [LICENSE.md](/LICENSE) file for details
+* This project is licensed under The GNU General Public License v3.0 - see the [LICENSE.md](LICENSE.md) file for details
 
 ### Acknowledgments
 
