@@ -42,7 +42,7 @@ SOCIAL MEDIA [Account Center](https://beacons.ai/spyderfalcon/)
   <table align="center" border="0" >
   <tr>
     <td> <img width="1080"
-src="https://lh3.googleusercontent.com/a-/AOh14GgGx98S4KBoPV4vfSPSf-GlPO9_o50lczgQ2tbYRQ=s192-c-mo"/></td>
+src="https://lh3.googleusercontent.com/a-/AOh14Ghl7eVXAaXqG3Eca4Qzx1OX4G1__E864BxJlk1JxA=s192-c-mo"/></td>
   </tr>
 </table>
   </div>
