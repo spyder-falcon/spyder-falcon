@@ -5,6 +5,7 @@
 * Programing in C++, python and html
 * Gaming PUBG,Warzone,valorant
 * Sleeping in 24 at a Day
+* ΓοΛΕ ΛΓιΕNMVrΕ
 
 ### Bio
 
@@ -15,7 +16,7 @@
 𝙨𝙞ח𝖈𝖊 1221
 ΓιΛΕ DιE Reρeατ
 ΓrοΜ ιiνiκ
-ΓοΛΕ ΛΓιΕNMVrΕ
+
 
 #### Account center
 FOLLOW ME ON
