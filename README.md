@@ -43,7 +43,6 @@ src="https://lh3.googleusercontent.com/a-/AOh14GgGx98S4KBoPV4vfSPSf-GlPO9_o50lcz
   </tr>
 </table>
   </div>
-</br>
 
 
 ## Authors
